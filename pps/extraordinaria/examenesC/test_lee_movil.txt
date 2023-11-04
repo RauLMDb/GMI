@@ -1,0 +1,5 @@
+Movil nº 1 = { eab0a2548176796, TCL 10 TabMax, 4 GB RAM, 8000, 1125.850000, 1211 }
+Movil nº 2 = { a8387988004c76e, TCL 10 TabMid, 3 GB RAM, 5500, 1125.850000, 1244 }
+Movil nº 3 = { 3fb0404e8670730, TCL MoveTime, 512 MB RAM, 600, 1125.850000, 935 }
+Movil nº 4 = { 48b10c0dca8d9c3, alcatel 1S (2021), 3 GB RAM, 4000, 19.580000, 1623 }
+Movil nº 5 = { 17a71af520a9543, Samsung Galaxy A52 5G, 6/8 GB RAM, 4500, 39.160000, 2426 }
