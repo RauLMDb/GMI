@@ -1,1 +1,0 @@
-gcc -Wall -Wextra -pedantic -ansi -o retos retos.c
