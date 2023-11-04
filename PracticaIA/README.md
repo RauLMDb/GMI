@@ -1,1 +1,1 @@
-Este proyecto consiste en la creación de una interfaz en la que aparece parte del mapa de metro de Atenas y se pueden seleccionar un estación de desctino y otra de inicio, entonces se muestra la ruta mas corta, calculada usando el algoritmo A*.
+Este proyecto consiste en la creación de una interfaz en la que aparece parte del mapa de metro de Atenas y se pueden seleccionar un estación de desctino y otra de inicio, entonces se muestra la ruta mas corta, calculada usando el algoritmo A*.EJECUTAR el archivo interfaz.py
