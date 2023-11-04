@@ -1,0 +1,330 @@
+[
+    {
+        "nombre": "Albert Park Circuit",
+        "pais": "Australia",
+        "velocidad_media": 213,
+        "metros_totales": 5303,
+        "num_curvas": 16,
+        "tipo": 0,
+        "degradacion": 3,
+        "zonas_drs": [{"inicio": 762, "longitud": 634}],
+        "longitud_total_drs": 634
+    },
+    {
+        "nombre": "Bahrain International Circuit",
+        "pais": "Bahrain",
+        "velocidad_media": 216,
+        "metros_totales": 5412,
+        "num_curvas": 15,
+        "tipo": 1,
+        "degradacion": 4,
+        "zonas_drs": [{"inicio": 98, "longitud": 510}, {"inicio": 1114, "longitud": 380}],
+        "longitud_total_drs": 890
+    },
+    {
+        "nombre": "Shanghai International Circuit",
+        "pais": "China",
+        "velocidad_media": 220,
+        "metros_totales": 5451,
+        "num_curvas": 16,
+        "tipo": 2,
+        "degradacion": 2,
+        "zonas_drs": [{"inicio": 762, "longitud": 752}, {"inicio": 1174, "longitud": 762}],
+        "longitud_total_drs": 1514
+    },
+    {
+        "nombre": "Baku City Circuit",
+        "pais": "Azerbaiyán",
+        "velocidad_media": 215,
+        "metros_totales": 6070,
+        "num_curvas": 20,
+        "tipo": 0,
+        "degradacion": 5,
+        "zonas_drs": [{"inicio": 98, "longitud": 150}, {"inicio": 1832, "longitud": 100}, {"inicio": 2098, "longitud": 260}],
+        "longitud_total_drs": 510
+    },
+    {
+        "nombre": "Circuit de Barcelona-Catalunya",
+        "pais": "España",
+        "velocidad_media": 220,
+        "metros_totales": 4655,
+        "num_curvas": 16,
+        "tipo": 2,
+        "degradacion": 3,
+        "zonas_drs": [{"inicio": 881, "longitud": 876}, {"inicio": 1217, "longitud": 643}],
+        "longitud_total_drs": 1519
+    },
+    {
+        "nombre": "Circuit de Monaco",
+        "pais": "Mónaco",
+        "velocidad_media": 173,
+        "metros_totales": 3337,
+        "num_curvas": 19,
+        "tipo": 0,
+        "degradacion": 2,
+        "zonas_drs": [],
+        "longitud_total_drs": 0
+    },
+    {
+        "nombre": "Circuit Gilles-Villeneuve",
+        "pais": "Canadá",
+        "velocidad_media": 210,
+        "metros_totales": 4361,
+        "num_curvas": 14,
+        "tipo": 1,
+        "degradacion": 4,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 647
+            },
+            {
+                "zona": 2,
+                "longitud": 157
+            }
+        ]
+    },
+    {
+        "nombre": "Circuit Paul Ricard",
+        "pais": "Francia",
+        "velocidad_media": 240,
+        "metros_totales": 5842,
+        "num_curvas": 15,
+        "tipo": 2,
+        "degradacion": 3,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 830
+            },
+            {
+                "zona": 2,
+                "longitud": 630
+            },
+            {
+                "zona": 3,
+                "longitud": 452
+            }
+        ]
+    },
+    {
+        "nombre": "Red Bull Ring",
+        "pais": "Austria",
+        "velocidad_media": 220,
+        "metros_totales": 4318,
+        "num_curvas": 10,
+        "tipo": 2,
+        "degradacion": 2,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 240
+            },
+            {
+                "zona": 2,
+                "longitud": 524
+            }
+        ]
+    },
+    {
+        "nombre": "Silverstone Circuit",
+        "pais": "Reino Unido",
+        "velocidad_media": 230,
+        "metros_totales": 5891,
+        "num_curvas": 18,
+        "tipo": 2,
+        "degradacion": 3,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 752
+            },
+            {
+                "zona": 2,
+                "longitud": 259
+            },
+            {
+                "zona": 3,
+                "longitud": 732
+            }
+        ]
+    },
+    {
+        "nombre": "Hungaroring",
+        "pais": "Hungría",
+        "velocidad_media": 190,
+        "metros_totales": 4381,
+        "num_curvas": 14,
+        "tipo": 1,
+        "degradacion": 2,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 527
+            },
+            {
+                "zona": 2,
+                "longitud": 320
+            }
+        ]
+    },
+    {
+        "nombre": "Circuit de Spa-Francorchamps",
+        "pais": "Bélgica",
+        "velocidad_media": 230,
+        "metros_totales": 7004,
+        "num_curvas": 19,
+        "tipo": 2,
+        "degradacion": 4,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 1104
+            },
+            {
+                "zona": 2,
+                "longitud": 210
+            },
+            {
+                "zona": 3,
+                "longitud": 625
+            }
+        ],
+        "longitud_total_drs": 1939
+    },
+    {
+        "nombre": "Autodromo Nazionale di Monza",
+        "pais": "Italia",
+        "velocidad_media": 245,
+        "metros_totales": 5793,
+        "num_curvas": 11,
+        "tipo": 2,
+        "degradacion": 4,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 115
+            },
+            {
+                "zona": 2,
+                "longitud": 120
+            },
+            {
+                "zona": 3,
+                "longitud": 120
+            },
+            {
+                "zona": 4,
+                "longitud": 112
+            }
+        ],
+        "longitud_total_drs": 467
+    },
+    {
+        "nombre": "Sochi Autodrom",
+        "pais": "Rusia",
+        "velocidad_media": 215,
+        "metros_totales": 5848,
+        "num_curvas": 18,
+        "tipo": 1,
+        "degradacion": 3,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 200
+            },
+            {
+                "zona": 2,
+                "longitud": 150
+            },
+            {
+                "zona": 3,
+                "longitud": 100
+            }
+        ],
+        "longitud_total_drs": 450
+    },
+    {
+        "nombre": "Circuit of the Americas",
+        "pais": "Estados Unidos",
+        "velocidad_media": 200,
+        "metros_totales": 5513,
+        "num_curvas": 20,
+        "tipo": 2,
+        "degradacion": 3,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 486
+            },
+            {
+                "zona": 2,
+                "longitud": 381
+            }
+        ],
+        "longitud_total_drs": 867
+    },
+    {
+        "nombre": "Autódromo Hermanos Rodríguez",
+        "pais": "México",
+        "velocidad_media": 205,
+        "metros_totales": 4304,
+        "num_curvas": 17,
+        "tipo": 1,
+        "degradacion": 4,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 876
+            },
+            {
+                "zona": 2,
+                "longitud": 683
+            }
+        ],
+        "longitud_total_drs": 1559
+    },
+    {
+        "nombre": "Interlagos",
+        "pais": "Brasil",
+        "velocidad_media": 205,
+        "metros_totales": 4309,
+        "num_curvas": 15,
+        "tipo": 2,
+        "degradacion": 4,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 310
+            },
+            {
+                "zona": 2,
+                "longitud": 65
+            }
+        ],
+        "longitud_total_drs": 375
+    },
+    {
+        "nombre": "Yas Marina Circuit",
+        "pais": "Emiratos Árabes Unidos",
+        "velocidad_media": 205,
+        "metros_totales": 5554,
+        "num_curvas": 21,
+        "tipo": 1,
+        "degradacion": 3,
+        "zonas_drs": [
+            {
+                "zona": 1,
+                "longitud": 1081
+            },
+            {
+                "zona": 2,
+                "longitud": 1274
+            },
+            {
+                "zona": 3,
+                "longitud": 1076
+            }
+        ]
+    }
+]  
