@@ -1,0 +1,21 @@
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  image: maven:3.6.3-jdk-11
+  script:
+    - cp settings.xml /root/.m2/settings.xml
+    - mvn package -Dmaven.test.skip=true
+  tags:
+    - docexec
+
+deploy:
+    stage: deploy
+    script:
+     - docker-compose --file ${DOCKER_COMPOSE_FILE_PATH} up --detach --build ${CI_PROJECT_NAME}
+    tags:
+      - shexec
+    only:
+      - main

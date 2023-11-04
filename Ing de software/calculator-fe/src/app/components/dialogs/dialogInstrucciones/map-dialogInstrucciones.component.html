@@ -1,0 +1,25 @@
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css?family=Gentium+Basic&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  </head>
+  <body>
+    <h2 mat-dialog-title>Instrucciones para usar el mapa</h2>
+    <div mat-dialog-content>
+      
+      <p>Lea detenidamente las instrucciones que se presentan a continuación.</p>
+      <ul>
+        <li>Puede mover el mapa arrastrando con el ratón.</li>
+            <li>Haga click en el mapa para comenzar a dibujar.</li>
+            <li>Haga doble click o presione enter para terminar la figura.</li>
+            <li>Si desea eliminar la zona elegida, primero selecciónela y después haga click en la basura.</li>
+            <li>Para volver a seleccionar otra zona, haga click en el botón con un icono en forma de cuadrado.</li>
+      </ul>
+    </div>
+    <br>
+    <div mat-dialog-actions align="centre" class="btn-container">
+        <button class="btn" mat-button mat-dialog-close (click)="dialogRef.close()">Continuar</button>
+    </div>  
+  </body>
+  

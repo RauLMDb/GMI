@@ -1,0 +1,156 @@
+.bar-container {
+    display: flex;
+    justify-content: center;
+    position: fixed; // Para que la posición absoluta de .progress-bar funcione
+    width: 100%;
+    top: 20px;
+
+    .progress-bar {
+        padding: 0.7em;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        background-color: #FFEDDF;
+        border-radius: 0.25em;
+        z-index: 1;
+    
+        .progress-bar-head {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            margin-bottom: 0.7em;
+    
+            .title {
+                position: relative;
+                display: flex;
+                flex-direction: row;
+                width: max-content;
+    
+                p {
+                    text-align: center;
+                    margin: 0;
+                    font-family: 'Gentium Basic';
+                    font-weight: 400;
+                    font-size: 1.25em;
+                    color: #18315D;
+                    z-index: 2;
+                }
+    
+                .but-progress {
+                    position: absolute;
+                    display: inline-block;
+                    right: -3.0em;
+                    width: 1.5em;
+                    height: 1.5em;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color: red;
+                    border-radius: 6.25em;
+                    background: #CB5F46;
+                    color: white;
+                    font-weight: 500;
+                    font-size: 1em;
+                    cursor: pointer;
+                }
+    
+                .but-progress:hover { 
+                    filter: brightness(110%); 
+                    transform: scale(1.01);
+                }
+            }
+            
+            .underline{
+                width: 13.25em;
+                height: 0;
+                margin-top: 0.3em;
+                border: 0.16em solid #446193;
+                z-index: 2;
+            }
+    
+        }
+    
+        .progress-bar-body {
+            display: flex;
+            flex-direction: row;
+    
+            .fase {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin: 0em 0.2em;
+                width: 5.0em;
+    
+                .dot {
+                    top:0;
+                    height: 2.6em;
+                    width: 2.6em;
+                    background-color: #8C8C8C;
+                    border-radius: 50%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+    
+                    p {
+                        text-align: center;
+                        margin: 0;
+                        font-family: 'Gentium Basic';
+                        font-weight: 400;
+                        font-size: 1.25em;
+                        color: black;
+                    }
+                }
+    
+                .dot.active {
+                    background-color: #18315D;
+                }
+    
+                .dot.active p {
+                    color: white;
+                    font-weight: 700;
+                }
+    
+                .nombre-fase {
+                    font-family: 'Gentium Basic';
+                    font-weight: 400;
+                    font-size: 0.9em;
+                    text-align: center;
+                    color: #8C8C8C;
+    
+                    p {
+                        margin-top: 0.4em;
+                        margin-bottom: 0.25em;
+                    }
+                }
+    
+                .nombre-fase.active {
+                    font-weight: 700;
+                    color: #18315D;
+                }
+            }
+    
+            .line {
+                width: 2.9em;
+                height: 0;
+                border-top: 0.125em solid #8C8C8C;
+                margin: 1em 0;
+                position: relative;
+                z-index: 1;
+            }
+            
+    
+            .line.active {
+                border-color: #18315D;
+            }
+    
+            .line.active:before {
+                border-color: #18315D;
+            }
+        }
+    }
+    
+}

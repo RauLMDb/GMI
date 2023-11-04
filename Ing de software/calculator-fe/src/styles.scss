@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~mapbox-gl/dist/mapbox-gl.css';
+@import '~@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css';
+@import "~@mapbox/mapbox-gl-draw/dist/mapbox-gl-draw.css";
+
+body {
+    margin: 0;
+    padding: 0;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+.mapboxgl-ctrl-group button {
+  width: 40px;
+  height: 40px;
+}
+
+.mapboxgl-ctrl-geocoder {
+    width: 100%;
+}
+
+.mapbox-gl-draw_ctrl-draw-btn.active { box-shadow: inset 0px 0px 5px 0px rgba(0,0,0,0.75); }
+
+.cdk-overlay-dark-backdrop {
+  backdrop-filter: blur(10px);
+}

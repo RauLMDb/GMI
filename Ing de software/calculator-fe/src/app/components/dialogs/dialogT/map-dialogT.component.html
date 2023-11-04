@@ -1,0 +1,23 @@
+<head>
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css?family=Gentium+Basic&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<body>
+  <h2 mat-dialog-title>El área seleccionada está libre</h2>
+  <div mat-dialog-content>
+    <p>En caso de que se tramite con éxito se podría optar a la siguiente ayuda:</p>
+    <ul>
+        <li>Subvención máxima aspirable: <b>{{ presupuesto }}</b></li>
+        <li>Superficie seleccionada: <b>{{ this.sharedDataService.area }} m²</b></li>
+    </ul>
+  </div>
+  <div mat-dialog-actions align="centre">
+    <p>Si desea solicitar la ayuda para este área pulse aceptar.<br>
+       Si desea seleccionar un área distinta, haga click en el mapa, borre el área elegida y dibuje de nuevo.
+  </div> 
+  <div mat-dialog-actions align="end" class="btn-container">
+      <button class="btn btn-send" mat-button mat-dialog-close>Aceptar</button>
+  </div>  
+</body>

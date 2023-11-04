@@ -1,0 +1,54 @@
+image: node:16.10.0-alpine
+
+stages:
+  - install
+  - build
+  - deploy
+
+cache:
+  paths:
+    - ${CI_PROJECT_DIR}/node_modules/
+
+install:
+  stage: install
+  script:
+    - npm config set proxy http://proxy.fi.upm.es:8080
+    - npm config set https-proxy http://proxy.fi.upm.es:8080
+    - npm install -g @angular/cli@^14.2.11
+    - npm install
+  only:
+    - main
+  tags:
+    - docexec
+
+build:
+  stage: build
+  script:
+    - npm run ng -- build --base-href=/${CI_PROJECT_NAME}/
+  artifacts:
+    name: "angular-pipeline"
+    expire_in: 1h
+    paths:
+      - ${CI_PROJECT_DIR}/public
+  dependencies:
+    - install
+  only:
+    - main
+  tags:
+    - docexec
+
+pages:
+  image: ubuntu
+  stage: deploy
+  script:
+    - cp public/index.html public/404.html
+  artifacts:
+    paths:
+      - ${CI_PROJECT_DIR}/public
+    expire_in: 1h
+  dependencies:
+    - build
+  only:
+    - main
+  tags:
+    - docexec
