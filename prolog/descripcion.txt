@@ -1,4 +1,0 @@
-# Esta carpeta es para guardar los archivos de ciao prolog que hago en el playground online.
-# en portatil ciaosh y luego consult('nombre_archivo.pl') para cargarlo.
-# lpdoc -t pdf nombre_archivo.pl para generar la documentacion. en wsl 
-# wslview nombre_archivo.html/nombre_archivo.html para ver la documentacion. luego imprimir a pdf.
