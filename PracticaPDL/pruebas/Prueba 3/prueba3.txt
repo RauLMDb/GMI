@@ -1,0 +1,38 @@
+/* Bloque de codigo 2 */
+let x int;
+let y int;
+if(x > y) {
+	print 'Bloque';
+}
+
+let q int;
+
+do {
+	q -= 1;
+} while(true);
+
+/* Combinacion de todo */
+
+function envuelveTodo int(int x,int y,int q) {
+	do {
+		print x; /* Se imprime x */
+		y -= 1;
+	}while(y > q);
+
+	if(x > y && x < q) 
+	{
+		print 'x es mayor que y pero no que q';
+		if(x > 0) {
+			print 'igualmente x es mayor que 0';
+			if(y < 0){
+				print 'no tiene sentido';
+				if(q > 0){
+					print 'efectivamente';
+				}
+			}
+		}
+	}
+
+	if(q > y && y > x) print 'Ambos enteros son mayores que x';
+	return x;
+}

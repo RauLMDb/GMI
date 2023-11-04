@@ -1,0 +1,40 @@
+TABLA GLOBAL #0 :
+* LEXEMA : 'prueba'
+  + tipo : 'ENTERO'
+  + despl : 0
+* LEXEMA : 'PRUEBA'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'finalTest'
+  + tipo : 'FUNC'
+  + numParam : 6
+   + TipoParam1 : 'ENTERO'
+   + TipoParam2 : 'ENTERO'
+   + TipoParam3 : 'ENTERO'
+   + TipoParam4 : 'BOOLEANO'
+   + TipoParam5 : 'BOOLEANO'
+   + TipoParam6 : 'CADENA'
+  + TipoRetorno : 'CADENA'
+  + EtiqFuncion : 'Et_finalTest'
+TABLA finalTest #1 :
+* LEXEMA : 'a'
+  + tipo : 'ENTERO'
+  + despl : 68
+* LEXEMA : 'b'
+  + tipo : 'ENTERO'
+  + despl : 67
+* LEXEMA : 'c'
+  + tipo : 'ENTERO'
+  + despl : 66
+* LEXEMA : 'l2'
+  + tipo : 'BOOLEANO'
+  + despl : 65
+* LEXEMA : 'l3'
+  + tipo : 'BOOLEANO'
+  + despl : 64
+* LEXEMA : 'cad'
+  + tipo : 'CADENA'
+  + despl : 0
+* LEXEMA : 'valor'
+  + tipo : 'ENTERO'
+  + despl : 69

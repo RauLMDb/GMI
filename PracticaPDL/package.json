@@ -1,0 +1,17 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "databases": "^0.0.1"
+  }
+}

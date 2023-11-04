@@ -1,0 +1,28 @@
+TABLA GLOBAL #0 :
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 0
+* LEXEMA : 'y'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'q'
+  + tipo : 'ENTERO'
+  + despl : 2
+* LEXEMA : 'envuelveTodo'
+  + tipo : 'FUNC'
+  + numParam : 3
+   + TipoParam1 : 'ENTERO'
+   + TipoParam2 : 'ENTERO'
+   + TipoParam3 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_envuelveTodo'
+TABLA envuelveTodo #1 :
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 2
+* LEXEMA : 'y'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'q'
+  + tipo : 'ENTERO'
+  + despl : 0

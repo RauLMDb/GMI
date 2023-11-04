@@ -1,0 +1,402 @@
+Axioma = P1
+Terminales = { ( ) id entero cadena ; { } if else do while string let input print return || && > < + * function , =  int boolean true false -= }
+NoTerminales = { P1 P 01 0101 02 0202 03 0303 04 0404 05 0505 06 0606 E EE E1 E2 S1 S2 S3 S4 S5 S6 S Q1 Q1Q1 Q1Q1Q1 Q1Q1Q1Q1 Q2 Q3 Q4 T Q5 Q F FF K1 K2 C }
+
+Tipos = {
+    tipo_ok, 
+    tipo_error
+    ENTERO
+    CADENA
+    BOOLEANO
+    NULL
+    VOID
+}
+
+Funciones = {
+    CREAR_TS( NOMBRE_TS ) : INDICE_TS
+        Crea una nueva Tabla de Símbolos con el nombre NOMBRE_TS y devuelve el índice
+    DESTRUIR_TS( INDICE_TS ) : VOID
+        Destruye la tabla de símbolos que está en INDICE_TS y no devuelve nada
+    BUSCAR_INDICE_TS( NOMBRE_TS ) : INDICE_TS
+        Buscar una TS por su nombre y devuelve el índice de la tabla
+    BUSCAR_TS( INDICE_TS, LEXEMA ) : FILA_TS
+        Busca en la TS en la posición INDICE_TS una fila por su lexema y devuelve toda la fila
+    NOMBRE_TS( INDICE_TS ) : CADENA
+        Devuelve el nombre de la TS que está en INDICE_TS
+    ACTUALIZAR_TS( INDICE_TS, LEXEMA, OBJETO ) : VOID
+        Actualiza la fila de la TS que está en INDICE_TS cuyo lexema es LEXEMA con lo que haya dentro de OBJETO y no devuelve nada
+}
+
+Producciones = {
+P -> Q P {}
+P -> F P {}
+P -> lambda {}
+01 -> 02 {
+        O1O1.varTipo = O2.varTipo
+    }
+    0101 {
+        O1.varTipo = if ( O1O1.varTipo == NULL ) then O2.varTipo ; else O1O1.varTipo
+        O1.tipo = if ( O2.tipo == tipo_ok && O1O1.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+    }
+0101 -> || 02 0101_1 {
+        O1O1.varTipo = if (O2.varTipo == O1O1.varTipo == BOOLEANO ) then BOOLEANO ; else tipo_error
+        O1O1.tipo = if (O2.varTipo == O1O1.varTipo == BOOLEANO ) then tipo_ok ; else tipo_error
+        0101_1.varTipo = O1O1.varTipo
+    }
+0101 -> lambda {
+        O1O1.tipo = tipo_ok
+        O1O1.varTipo = NULL
+    }
+02 -> 03 {
+        O2O2.varTipo = O3.varTipo
+    } 
+    0202 {
+        O2.varTipo = if ( O2O2.varTipo == NULL ) then O3.varTipo ; else O2O2.varTipo
+        O2.tipo = if ( O3.tipo == tipo_ok && O2O2.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+    }
+0202 -> && 03 0202_1 {
+        0202.varTipo = if (03.varTipo == 0202.varTipo == BOOLEANO ) then BOOLEANO ; else tipo_error
+        0202.tipo = if (03.varTipo == 0202.varTipo == BOOLEANO ) then tipo_ok ; else tipo_error
+        0202_1.varTipo = 0202.varTipo
+    }
+0202 -> lambda {
+        0202.tipo = tipo_ok
+        0202.varTipo = NULL
+    }
+03 -> 04 {
+        O3O3.varTipo = O4.varTipo
+    } 
+    0303 {
+        O3.varTipo = if ( O3O3.varTipo == NULL ) then O4.varTipo ; else O3O3.varTipo
+        O3.tipo = if ( O4.tipo == tipo_ok && O3O3.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+    }
+0303 -> > 04 0303_1 {
+        0303.varTipo = if (04.varTipo == 0303.varTipo == ENTERO ) then BOOLEANO ; else tipo_error
+        0303.tipo = if (04.varTipo == 0303.varTipo == ENTERO ) then tipo_ok ; else tipo_error
+        0303_1.varTipo = 0303.varTipo
+    }
+0303 -> lambda {
+        0303.tipo = tipo_ok
+        0303.varTipo = NULL
+    }
+04 -> 05 {
+        O4O4.varTipo = O5.varTipo
+    } 
+    0404 {
+        O4.varTipo = if ( O4O4.varTipo == NULL ) then O5.varTipo ; else O4O4.varTipo
+        O4.tipo = if ( O5.tipo == tipo_ok && O4O4.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+    }
+0404 -> < 05 0404_1 {
+        0404.varTipo = if (05.varTipo == 0404.varTipo == ENTERO ) then BOOLEANO ; else tipo_error
+        0404.tipo = if (05.varTipo == 0404.varTipo == ENTERO ) then tipo_ok ; else tipo_error
+        0404_1.varTipo = 0404.varTipo
+    }
+0404 -> lambda {
+        0404.tipo = tipo_ok
+        0404.varTipo = NULL
+    }
+05 -> 06 {
+        O5O5.varTipo = O6.varTipo
+    } 
+    0505 {
+        O5.varTipo = if ( O5O5.varTipo == NULL ) then O6.varTipo ; else O5O5.varTipo
+        O5.tipo = if ( O6.tipo == tipo_ok && O5O5.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+    }
+0505 -> + 06 0505_1 {
+        0505.varTipo = if (06.varTipo == 0505.varTipo == ENTERO ) then ENTERO ; else tipo_error
+        0505.tipo = if (06.varTipo == 0505.varTipo == ENTERO ) then tipo_ok ; else tipo_error
+        0505_1.varTipo = 0505.varTipo
+    }
+0505 -> lambda {
+        0505.tipo = tipo_ok
+        0505.varTipo = NULL
+    }
+06 -> E {
+        O6O6.varTipo = E.varTipo
+        O6.varTipo = E.varTipo
+    } 
+    0606 {
+        O6.varTipo = if ( O6O6.varTipo == NULL ) then E.varTipo ; else O6O6.varTipo
+        O6.tipo = if ( E.tipo == tipo_ok && O6O6.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+    }
+0606 -> * E 0606_1  {
+        0606.varTipo = if (E.varTipo == 0606.varTipo == ENTERO ) then ENTERO ; else tipo_error
+        0606.tipo = if (E.varTipo == 0606.varTipo == ENTERO ) then tipo_ok ; else tipo_error
+        0606_1.varTipo = 0606.varTipo
+    }
+0606 -> lambda {
+        0606.tipo = tipo_ok
+        0606.varTipo = NULL
+    }
+E -> id {
+        EE.varTipo = BUSCAR_TS( TS_ACTUAL, id.lex ).tipo
+        if ( BUSCAR_TS( TS_ACTUAL, id.lex ).tipo == FUNC ) then {
+            EE.numParams = BUSCAR_TS( TS_ACTUAL, id.lex ).numParams
+            EE.params = BUSCAR_TS( TS_ACTUAL, id.lex ).params
+        } else {
+            EE.numParams, EE.params = NULL
+        }
+    }
+    EE {
+        E.varTipo = if ( BUSCAR_TS( TS_ACTUAL, id.lex ).tipo == FUNC ) then BUSCAR_TS( TS_ACTUAL, id.lex ).tipoRetorno ; else BUSCAR_TS( TS_ACTUAL, id.lex ).tipo
+        E.tipo = EE.tipo
+    }
+E -> ( 01 ) {
+        E.varTipo = O1.varTipo
+        E.tipo = O1.tipo
+    }
+E -> entero {
+        E.tipo = tipo_ok
+        E.varTipo = ENTERO
+    }
+E -> cadena {
+        E.tipo = tipo_ok
+        E.varTipo = CADENA
+    }
+E -> true {
+        E.tipo = tipo_ok
+        E.varTipo = BOOLEANO
+    }
+E -> false {
+        E.tipo = tipo_ok
+        E.varTipo = BOOLEANO
+    }
+EE -> ( E1 ) {
+        EE.tipo = if ( E1.numParams == EE.numParams && E1.params == EE.params ) then tipo_ok ; else E1.tipo
+    }
+EE -> lambda {
+        EE.tipo = tipo_ok
+    }
+E1 -> 01 E2 {
+        E1.tipo = if ( O1.tipo == tipo_ok && E2.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+        E1.numParams = 1 + E2.numParams
+        E1.params = [O1.tipo, ...E2.params]
+    }
+E1 -> lambda {
+        E1.tipo = tipo_ok
+        E1.numParams = 0
+        E1.params = []
+    }
+E2 -> , 01 E2_1 {
+        E2.tipo = if ( O1.tipo == tipo_ok && E2_1.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+        E2.numParams = 1 + E2_1.numParams
+        E2.params = [O1.tipo, ...E2_1.params]
+    }
+S1 -> id {
+        id = BUSCAR_TS( TS_ACTUAL, id.lex )
+        if ( id.tipo == FUNC ) then {
+            S2.numParams = id.numParams
+            S2.params = id.params
+        } else {
+            S2.numParams = tipo_ok
+            S2.params = tipo_ok
+        }
+    }
+    S2 {
+        S1.tipo = if ( S2.tipo == FUNC ) then
+            if ( id.tipo == FUNC ) then tipo_ok ; else tipo_error
+        else if ( S2.tipo == ASIGN ) then
+            if ( id.tipo == S2.varTipo ) then tipo_ok ; else tipo_error
+        else if ( S2.tipo == SUB_ASIGN ) then
+            if ( id.tipo == ENTERO && S2.varTipo == ENTERO ) then tipo_ok ; else tipo_error
+        else tipo_error
+    }
+S2 -> = 01 ; {
+        S2.tipo = ASIGN
+        S2.varTipo = O1.tipo
+    }
+S2 -> ( E1 ) ; {
+        S2.tipo = if ( S2.numParams == E1.numParams AND S2.params == E1.params ) then FUNC ; else tipo_error
+        S2.varTipo = tipo_ok
+    }
+S3 -> print 01 ; {
+        S3.tipo = if ( O1.tipo == ENTERO || O1.tipo == CADENA ) then tipo_ok ; else tipo_error
+    }
+S4 -> input id ; {
+        S4.tipo = if ( BUSCAR_TS( TS_ACTUAL, id.lex ).tipo == ENTERO || BUSCAR_TS( TS_ACTUAL, id.lex ).tipo == CADENA ) then tipo_ok ; else tipo_error
+    }
+S5 -> return S6 ; {
+        S5.func = NOMBRE_TS( TS_ACTUAL )
+        S5.tipo = if ( S5.func != "GLOBAL" ) then
+                        if ( BUSCAR_TS( BUSCAR_INDICE_TS( "GLOBAL" ), S5.func ).tipoRetorno == S6.tipo ) then tipo_ok ; else tipo_error
+                  else tipo_error
+    }
+S6 -> 01 {
+        S6.tipo = O1.tipo
+        S6.varTipo = O1.varTipo
+    }
+S -> S1 {
+        S.tipo = S1.tipo
+        S.return = FALSE
+    }
+S -> S3 {
+        S.tipo = S3.tipo
+        S.return = FALSE
+    }
+S -> S4 {
+        S.tipo = S4.tipo
+        S.return = FALSE
+    }
+S -> S5 {
+        S.tipo = S5.tipo
+        S.return = TRUE
+    }
+Q1 -> if ( 01 ) Q1Q1 {
+        Q1.tipo = if ( O1.tipo == bool ) then Q1Q1.tipo ; else tipo_error
+        Q1Q1.funcLex = NULL
+    }
+Q1Q1 -> S {
+        Q1Q1.tipo = S.tipo
+        Q1Q1.return = S.return
+    }
+Q1Q1 -> Q1Q1Q1 Q1Q1Q1Q1 {
+        Q1Q1.tipo = if ( Q1Q1.tipo = tipo_ok && Q1Q1Q1Q1.tipo = tipo_ok ) then tipo_ok ; else tipo_error
+        Q1Q1.return = Q1Q1Q1.return && Q1Q1Q1Q1.return
+    }
+Q1Q1Q1Q1 -> else Q1Q1Q1 {
+        Q1Q1Q1Q1.tipo = Q1Q1Q1.tipo
+        Q1Q1Q1Q1.return = Q1Q1Q1.return
+    }
+Q1Q1Q1Q1 -> lambda {
+        Q1Q1Q1Q1.tipo = tipo_ok
+        Q1Q1Q1Q1.return = FALSE
+    }
+Q1Q1Q1 -> { C } {
+        Q1Q1Q1.tipo = C.tipo
+        Q1Q1Q1.return = C.return
+    }
+Q2 -> let {
+        zonaDecl = true
+    }
+    id T ; {
+        zonaDecl = false
+        ACTUALIZAR_TS( TS_ACTUAL, id.lex, {
+            tipo = T.tipo
+        } )
+    }
+Q3 -> S {
+        Q3.tipo = S.tipo
+    }
+Q4 -> Q5 {
+        Q4.tipo = Q5.tipo
+    }
+T -> string {
+        T.tipo = CADENA
+    }
+T -> int {
+        T.tipo = ENTERO
+    }
+T -> boolean {
+        T.tipo = BOOLEANO
+    }
+Q5 -> do Q1Q1Q1 while ( 01 ) ; {
+        if ( O1.varTipo != BOOLEANO ) then tipo_error;
+        Q5.tipo = if ( Q1Q1Q1.tipo == tipo_ok && O1.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+        Q5.return = Q1Q1Q1.return
+    }
+Q -> Q1 {
+        Q.tipo = Q1.tipo
+        Q.return = Q1.return
+    }
+Q -> Q2 {
+        Q.tipo = Q2.tipo
+    }
+Q -> Q3 {
+        Q.tipo = Q2.tipo
+    }
+Q -> Q4 {
+        Q.tipo = Q2.tipo
+    }
+F -> function  {
+        zonaDecl = true
+    }
+    id {
+        F.tipo = FUNC
+        FF.varLex = id.lex
+        TS_ACTUAL = CREAR_TS( FF.varLex )
+    }
+    FF {
+        F.tipo = if ( FF.tipo == tipo_ok ) then FUNC ; else tipo_error
+    }
+FF -> T ( K1 ) {
+        ACTUALIZAR_TS(0, FF.varLex, {
+            tipo = FUNC
+            numParams = K1.numParams
+            params = K1.params
+            tipoRetorno = T.tipo
+            etiqRetorno = FF.varLex
+        })
+        zonaDecl = false
+    }
+    Q1Q1Q1 {
+        FF.tipo = if ( Q1Q1Q1.return ) then tipo_ok ; else tipo_error
+        DESTRUIR_TS( TS_ACTUAL )
+        TS_ACTUAL = BUSCAR_INDICE_TS( "GLOBAL" )
+    }
+FF -> ( K1 ) {
+        ACTUALIZAR_TS(0, FF.varLex, {
+            tipo = FUNC
+            numParams = K1.numParams
+            params = K1.params
+            tipoRetorno = VOID
+            etiqRetorno = FF.varLex
+        })
+        zonaDecl = false
+    }
+    Q1Q1Q1 {
+        FF.tipo = tipo_ok
+        DESTRUIR_TS( TS_ACTUAL )
+        TS_ACTUAL = BUSCAR_INDICE_TS( "GLOBAL" )
+    }
+K1 -> T id K2 {
+        ACTUALIZAR_TS( TS_ACTUAL, id.lex, {
+            tipo = T.tipo
+        } )
+        K1.numParams = 1 + K2.numParams
+        K1.params = [T.tipo, ...K2.params]
+    }
+K1 -> lambda {
+        K1.numParams = 0
+        K1.params = []
+    }
+K2 -> , T id K2_1 {
+        ACTUALIZAR_TS( TS_ACTUAL, id.lex, {
+            tipo = T.tipo
+        } )
+        K2.numParams = 1 + K2_1.numParams
+        K2.params = [T.tipo, ...K2_1.params]
+    }
+K2 -> lambda {
+        K2.numParams = 0
+        K2.params = []
+    }
+C -> Q C_1 {
+        C.tipo = if ( Q.tipo == tipo_ok && C_1.tipo == tipo_ok ) then tipo_ok ; else tipo_error
+        C.return = Q.return || C_1.return
+    }
+C -> lambda {
+        C.tipo = tipo_ok
+        C.return = FALSE
+    }
+E2 -> lambda {
+        E2.tipo = tipo_ok
+        E2.numParams = 0
+        E2.params = []
+    }
+S2 -> -= 01 ; {
+        S2.tipo = SUB_ASIGN
+        S2.varTipo = O1.tipo
+    }
+P1 -> {
+        zonaDecl = true
+        despl = 0
+        TS_ACTUAL = BUSCAR_INDICE_TS( "GLOBAL" )
+    }
+    P {
+        zonaDecl = false
+        DESTRUIR_TS( TS_ACTUAL )
+    }
+S6 -> lambda {
+        S6.tipo = VOID
+    }
+}

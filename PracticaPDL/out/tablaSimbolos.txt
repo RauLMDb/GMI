@@ -1,0 +1,79 @@
+TABLA GLOBAL #0 :
+* LEXEMA : 's'
+  + tipo : 'CADENA'
+  + despl : 0
+* LEXEMA : 'FactorialRecursivo'
+  + tipo : 'FUNC'
+  + numParam : 1
+   + TipoParam1 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_FactorialRecursivo'
+* LEXEMA : 'uno'
+  + tipo : 'ENTERO'
+  + despl : 64
+* LEXEMA : 'UNO'
+  + tipo : 'ENTERO'
+  + despl : 65
+* LEXEMA : 'salto'
+  + tipo : 'FUNC'
+  + numParam : 0
+  + TipoRetorno : 'CADENA'
+  + EtiqFuncion : 'Et_salto'
+* LEXEMA : 'FactorialDo'
+  + tipo : 'FUNC'
+  + numParam : 1
+   + TipoParam1 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_FactorialDo'
+* LEXEMA : 'hola'
+  + tipo : 'FUNC'
+  + numParam : 1
+   + TipoParam1 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_hola'
+* LEXEMA : 'For'
+  + tipo : 'ENTERO'
+  + despl : 66
+* LEXEMA : 'Do'
+  + tipo : 'ENTERO'
+  + despl : 67
+* LEXEMA : 'While'
+  + tipo : 'ENTERO'
+  + despl : 68
+* LEXEMA : 'imprime'
+  + tipo : 'FUNC'
+  + numParam : 3
+   + TipoParam1 : 'CADENA'
+   + TipoParam2 : 'CADENA'
+   + TipoParam3 : 'ENTERO'
+  + TipoRetorno : 'VOID'
+  + EtiqFuncion : 'Et_imprime'
+TABLA FactorialRecursivo #1 :
+* LEXEMA : 'n'
+  + tipo : 'ENTERO'
+  + despl : 0
+TABLA salto #2 :
+TABLA FactorialDo #3 :
+* LEXEMA : 'n'
+  + tipo : 'ENTERO'
+  + despl : 0
+* LEXEMA : 'factorial'
+  + tipo : 'ENTERO'
+  + despl : 1
+TABLA hola #4 :
+* LEXEMA : 'n'
+  + tipo : 'ENTERO'
+  + despl : 0
+TABLA imprime #5 :
+* LEXEMA : 's'
+  + tipo : 'CADENA'
+  + despl : 65
+* LEXEMA : 'msg'
+  + tipo : 'CADENA'
+  + despl : 1
+* LEXEMA : 'f'
+  + tipo : 'ENTERO'
+  + despl : 0
+* LEXEMA : 'For'
+  + tipo : 'CADENA'
+  + despl : 129

@@ -1,0 +1,222 @@
+aristas = [{
+    "nodoA":1,
+    "nodoB":2,
+    "coste":4
+},{
+    "nodoA":2,
+    "nodoB":3,
+    "coste":8
+},{
+    "nodoA":3,
+    "nodoB":4,
+    "coste":16
+},{
+    "nodoA":4,
+    "nodoB":5,
+    "coste":15
+},{
+    "nodoA":5,
+    "nodoB":6,
+    "coste":11
+},{
+    "nodoA":6,
+    "nodoB":7,
+    "coste":11
+},{
+    "nodoA":7,
+    "nodoB":8,
+    "coste":1
+},{
+    "nodoA":8,
+    "nodoB":9,
+    "coste":2
+},{
+    "nodoA":8,
+    "nodoB":39,
+    "coste":2
+},{
+    "nodoA":8,
+    "nodoB":30,
+    "coste":1
+},{
+    "nodoA":9,
+    "nodoB":10,
+    "coste":1
+},{
+    "nodoA":9,
+    "nodoB":28,
+    "coste":15
+},{
+    "nodoA":9,
+    "nodoB":29,
+    "coste":15
+},{
+    "nodoA": 10,
+    "nodoB":11,
+    "coste":11
+},{
+    "nodoA":11,
+    "nodoB":12,
+    "coste":6
+},{
+    "nodoA":12,
+    "nodoB":13,
+    "coste":1
+},{
+    "nodoA":13,
+    "nodoB":14,
+    "coste":2
+},{
+    "nodoA":14,
+    "nodoB":15,
+    "coste":4
+},{
+    "nodoA":15,
+    "nodoB":16,
+    "coste":17
+},{
+    "nodoA":16,
+    "nodoB":17,
+    "coste":13
+},{
+    "nodoA":17,
+    "nodoB":18,
+    "coste":1
+},{
+    "nodoA":18,
+    "nodoB":19,
+    "coste":13
+},{
+    "nodoA":19,
+    "nodoB":20,
+    "coste":15
+},{
+    "nodoA":20,
+    "nodoB":21,
+    "coste":15
+},{
+    "nodoA":21,
+    "nodoB":22,
+    "coste":3
+},{
+    "nodoA":22,
+    "nodoB":23,
+    "coste":18
+},{
+    "nodoA":23,
+    "nodoB":24,
+    "coste":11
+},{
+    "nodoA":37,
+    "nodoB":38,
+    "coste":13
+},{
+    "nodoA":38,
+    "nodoB":39,
+    "coste":12
+},{
+    "nodoA":30,
+    "nodoB":40,
+    "coste":3
+},{
+    "nodoA":40,
+    "nodoB":41,
+    "coste":18
+},{
+    "nodoA":41,
+    "nodoB":42,
+    "coste":14
+},{
+    "nodoA":42,
+    "nodoB":43,
+    "coste":2
+},{
+    "nodoA":43,
+    "nodoB":44,
+    "coste":5
+},{
+    "nodoA":44,
+    "nodoB":45,
+    "coste":12
+},{
+    "nodoA":45,
+    "nodoB":46,
+    "coste":13
+},{
+    "nodoA":46,
+    "nodoB":47,
+    "coste":17
+},{
+    "nodoA":47,
+    "nodoB":48,
+    "coste":8
+},{
+    "nodoA":48,
+    "nodoB":49,
+    "coste":9
+},{
+    "nodoA":49,
+    "nodoB":54,
+    "coste":11
+},{
+    "nodoA":54,
+    "nodoB":50,
+    "coste":13
+},{
+    "nodoA":50,
+    "nodoB":51,
+    "coste":9
+},{
+    "nodoA":51,
+    "nodoB":52,
+    "coste":17
+},{
+    "nodoA":52,
+    "nodoB":53,
+    "coste":12
+},{
+    "nodoA":25,
+    "nodoB":26,
+    "coste":15
+},{
+    "nodoA":26,
+    "nodoB":11,
+    "coste":7
+},{
+    "nodoA":11,
+    "nodoB":27,
+    "coste":6
+},{
+    "nodoA":27,
+    "nodoB":28,
+    "coste":13
+},{
+    "nodoA":29,
+    "nodoB":30,
+    "coste":17
+},{
+    "nodoA":30,
+    "nodoB":31,
+    "coste":9
+},{
+    "nodoA":31,
+    "nodoB":32,
+    "coste":8
+},{
+    "nodoA":32,
+    "nodoB":33,
+    "coste":7
+},{
+    "nodoA":33,
+    "nodoB":34,
+    "coste":3
+},{
+    "nodoA":34,
+    "nodoB":35,
+    "coste":13
+},{
+    "nodoA":35,
+    "nodoB":36,
+    "coste":11
+}
+]

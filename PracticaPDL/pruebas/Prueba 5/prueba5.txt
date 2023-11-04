@@ -1,0 +1,20 @@
+let prueba int;
+let PRUEBA int; /* mayusculas y minusculas */
+
+function finalTest string(int a, int b, int c, boolean l2, boolean l3, string cad) {
+	let valor int; 
+	do {
+		print a; print 'no sabemos que numero es 
+		m
+		a
+		y
+		o
+		r';
+		a -= c;
+		c -= b;
+		b -= a;
+		if(a > c && b < c && c > (a*2) /* comentario aqui */ ) print valor;
+		if(l2) print 'Siempre la verdad';
+	}while(b > c && c > a || c < a);
+	return cad;
+}

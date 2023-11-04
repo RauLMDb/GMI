@@ -1,0 +1,27 @@
+/* Se necesita comprobar para el correcto funcionamiento del procesador
+		las siguientes cosas a mencionar	
+			*/
+
+/* Declaraciones, funciones, tipos enteros, logicos y cadenas,		
+		variables y su declaracion, sentencias, expresiones				, 				comentarios,	
+							operadores de todo tipo
+*/
+
+
+
+let x int;  /* Sean la dos primeras variables */
+let y int;
+
+/* Se procede a crear una funcion que devuelve la suma de la variable y otro numero */
+function sumaPrueba1 int (int n)	
+{
+	if (x < 0)	return x;
+	return (x+10); 
+	/* Return básico */
+}
+/* Funcion con las 2 variables */
+
+function sumaTriple boolean (int x, int y) {
+	return (x > y);
+}
+sumaPrueba1(x);

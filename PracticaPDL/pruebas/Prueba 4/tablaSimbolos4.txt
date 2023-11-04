@@ -1,0 +1,48 @@
+TABLA GLOBAL #0 :
+* LEXEMA : 'envuelveTodo2'
+  + tipo : 'FUNC'
+  + numParam : 3
+   + TipoParam1 : 'ENTERO'
+   + TipoParam2 : 'CADENA'
+   + TipoParam3 : 'CADENA'
+  + TipoRetorno : 'CADENA'
+  + EtiqFuncion : 'Et_envuelveTodo2'
+* LEXEMA : 'envuelveTodoRecur'
+  + tipo : 'FUNC'
+  + numParam : 5
+   + TipoParam1 : 'ENTERO'
+   + TipoParam2 : 'ENTERO'
+   + TipoParam3 : 'CADENA'
+   + TipoParam4 : 'BOOLEANO'
+   + TipoParam5 : 'BOOLEANO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_envuelveTodoRecur'
+TABLA envuelveTodo2 #1 :
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 128
+* LEXEMA : 'cad1'
+  + tipo : 'CADENA'
+  + despl : 64
+* LEXEMA : 'cad2'
+  + tipo : 'CADENA'
+  + despl : 0
+TABLA envuelveTodoRecur #2 :
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 67
+* LEXEMA : 'y'
+  + tipo : 'ENTERO'
+  + despl : 66
+* LEXEMA : 'cad'
+  + tipo : 'CADENA'
+  + despl : 2
+* LEXEMA : 'l1'
+  + tipo : 'BOOLEANO'
+  + despl : 1
+* LEXEMA : 'l2'
+  + tipo : 'BOOLEANO'
+  + despl : 0
+* LEXEMA : 'z'
+  + tipo : 'ENTERO'
+  + despl : 68

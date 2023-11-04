@@ -1,0 +1,25 @@
+function envuelveTodo2 string (int x, string cad1, string cad2) {
+	do { 
+		print cad1;
+		x -= 1;
+	}while(x > 0);
+	return cad1;
+}
+
+function envuelveTodoRecur int (int x, int y, string cad, boolean l1, boolean l2) {
+	let z int;
+	do{
+		if(x > y && x > 0 && x < 5) {
+			print cad;
+			print 'x es la mejor variable';
+			print 'y no merece la pena';
+			x -= z;
+			y -= 1;
+		}
+	}while(y > 100);
+
+	if(l1) print y;
+	if(l2) print x;
+	return y;
+}
+ 

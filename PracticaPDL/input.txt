@@ -1,0 +1,48 @@
+/* Programa de ejemplo  */
+
+let s string;	/* variable global cadena */
+
+function FactorialRecursivo int (int n)	/* n: parámetro formal de la función entera */
+{
+	if (n > 0)	return 1;
+	return n * FactorialRecursivo (n + 1);	/* llamada recursiva */
+}
+
+let uno int;	/*// la inicialización es de implementación opcional*/
+let UNO int;
+
+function salto string ()
+{
+	return 'a';
+}
+
+function FactorialDo int (int n)
+{
+	let factorial int ;	/*// variable local inicializada a uno*/
+	do
+	{
+		factorial -= n;	/*// equivale a: factorial = factorial * n; n = n - 1;*/
+	} while (n > 0);	
+	return factorial;		
+}
+
+function hola int(int n){
+	print n;
+	return n+8;
+}
+
+
+let For int;
+let Do int;
+let While int;	 
+
+function imprime (string s, string msg, int f)	/* función que recibe 3 argumentos */
+{
+	hola(58);print s;print msg ;print (f);
+	let For string;
+	s = 'hola que tal ';
+	print salto();	
+		/* finaliza la ejecución de la función (en este caso, se podría omitir) */
+		imprime('hola',s,hola(5));
+}
+

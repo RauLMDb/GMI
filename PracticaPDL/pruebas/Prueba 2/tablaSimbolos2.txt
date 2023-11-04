@@ -1,0 +1,49 @@
+TABLA GLOBAL #0 :
+* LEXEMA : 'imprimir'
+  + tipo : 'FUNC'
+  + numParam : 4
+   + TipoParam1 : 'BOOLEANO'
+   + TipoParam2 : 'CADENA'
+   + TipoParam3 : 'ENTERO'
+   + TipoParam4 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_imprimir'
+* LEXEMA : 'mensaje'
+  + tipo : 'FUNC'
+  + numParam : 0
+  + TipoRetorno : 'CADENA'
+  + EtiqFuncion : 'Et_mensaje'
+* LEXEMA : 'z'
+  + tipo : 'ENTERO'
+  + despl : 0
+* LEXEMA : 'w'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'operacion'
+  + tipo : 'FUNC'
+  + numParam : 2
+   + TipoParam1 : 'ENTERO'
+   + TipoParam2 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_operacion'
+TABLA imprimir #1 :
+* LEXEMA : 'l1'
+  + tipo : 'BOOLEANO'
+  + despl : 66
+* LEXEMA : 'cad'
+  + tipo : 'CADENA'
+  + despl : 2
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'y'
+  + tipo : 'ENTERO'
+  + despl : 0
+TABLA mensaje #2 :
+TABLA operacion #3 :
+* LEXEMA : 'z'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'w'
+  + tipo : 'ENTERO'
+  + despl : 0

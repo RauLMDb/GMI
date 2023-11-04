@@ -1,0 +1,22 @@
+function imprimir int (boolean l1, string cad, int x, int y) {
+	l1 = (x > y);
+	if(l1) {
+		print 'Es cierta la implicacion';
+	}
+	return x;
+}
+
+function mensaje string () {
+	return 'Mensaje de prueba';
+}
+
+/* variables */
+
+let z int;
+let w int;
+
+function operacion int (int z, int w) 
+{
+	z -= w;
+	return z;
+}

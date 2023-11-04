@@ -1,0 +1,31 @@
+TABLA GLOBAL #0 :
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 0
+* LEXEMA : 'y'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'sumaPrueba1'
+  + tipo : 'FUNC'
+  + numParam : 1
+   + TipoParam1 : 'ENTERO'
+  + TipoRetorno : 'ENTERO'
+  + EtiqFuncion : 'Et_sumaPrueba1'
+* LEXEMA : 'sumaTriple'
+  + tipo : 'FUNC'
+  + numParam : 2
+   + TipoParam1 : 'ENTERO'
+   + TipoParam2 : 'ENTERO'
+  + TipoRetorno : 'BOOLEANO'
+  + EtiqFuncion : 'Et_sumaTriple'
+TABLA sumaPrueba1 #1 :
+* LEXEMA : 'n'
+  + tipo : 'ENTERO'
+  + despl : 0
+TABLA sumaTriple #2 :
+* LEXEMA : 'x'
+  + tipo : 'ENTERO'
+  + despl : 1
+* LEXEMA : 'y'
+  + tipo : 'ENTERO'
+  + despl : 0
