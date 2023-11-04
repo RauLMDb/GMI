@@ -1,0 +1,994 @@
+
+a	java:S112ñ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112®"FDefine and throw a dedicated exception instead of using a generic one.(Ü¹¤ùÿÿÿÿ
+a	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ï"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ó"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112×"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Ù"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112ˆ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112™"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112µ"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Æ"FDefine and throw a dedicated exception instead of using a generic one.(©ÖÆòşÿÿÿÿ
+a	java:S112ö"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112ı"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+a	java:S112Í"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(§›÷8
+u
+java:S2293ş"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘­óêúÿÿÿÿ
+p
+java:S2293ÿ"YReplace the type specification in this constructor call with the diamond operator ("<>").(§„â
+p
+java:S2293Ú"YReplace the type specification in this constructor call with the diamond operator ("<>").(´»ÚÆ
+p
+java:S2293Û"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ÑÂë
+p
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜§†
+u
+java:S2293ª"YReplace the type specification in this constructor call with the diamond operator ("<>").(õÇ¥Æùÿÿÿÿ
+u
+java:S2293Ò"YReplace the type specification in this constructor call with the diamond operator ("<>").(úş¶Ïüÿÿÿÿ
+u
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ı€¶øÿÿÿÿ
+u
+java:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(¸˜¢”ûÿÿÿÿ
+u
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘­óêúÿÿÿÿ
+p
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(§„â
+p
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(â±ÿµ
+u
+java:S2293ä"YReplace the type specification in this constructor call with the diamond operator ("<>").(ºâ„üÿÿÿÿ
+p
+java:S2293ë"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹í£¤
+p
+java:S2293ó"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹í£¤
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÕøË
+p
+java:S2293‚"YReplace the type specification in this constructor call with the diamond operator ("<>").(²œŞÄ
+o
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(–ŸÒ!
+p
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œû«–
+u
+java:S2293û"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹”™“øÿÿÿÿ
+p
+java:S2293ü"YReplace the type specification in this constructor call with the diamond operator ("<>").(ûñ°Î
+d
+java:S1192¹"HDefine a constant instead of duplicating this literal "test_36" 3 times.(õ®Ù§øÿÿÿÿ
+_
+java:S1192Ğ"HDefine a constant instead of duplicating this literal "LAN706" 27 times.(˜…Ç
+_
+java:S1192¥"HDefine a constant instead of duplicating this literal "test_35" 3 times.(ùİ§æ
+_
+java:S1192Ã"HDefine a constant instead of duplicating this literal "test_34" 3 times.(ÒàÂ£
+_
+java:S1192ç"HDefine a constant instead of duplicating this literal "test_33" 3 times.(È“¥æ
+v
+java:S1192¨"_Define a constant instead of duplicating this literal " has modified the input array " 4 times.(¡ˆ¸´
+_
+java:S1192"HDefine a constant instead of duplicating this literal "test_32" 3 times.(—ôêå
+d
+java:S1192Á"HDefine a constant instead of duplicating this literal "test_31" 3 times.(Õ†éôıÿÿÿÿ
+_
+java:S1192õ"HDefine a constant instead of duplicating this literal "test_30" 3 times.(Í¶ÃÜ
+_
+java:S1192«"HDefine a constant instead of duplicating this literal "test_29" 3 times.(¢Âûç
+_
+java:S1192ã"HDefine a constant instead of duplicating this literal "test_28" 3 times.(á•Âê
+d
+java:S1192¢"HDefine a constant instead of duplicating this literal "AEA042" 27 times.(ÆŸ…úÿÿÿÿ
+d
+java:S1192"HDefine a constant instead of duplicating this literal "test_27" 3 times.(ôÒµéøÿÿÿÿ
+d
+java:S1192×"HDefine a constant instead of duplicating this literal "test_26" 3 times.(ÚŒÎÓúÿÿÿÿ
+d
+java:S1192“"HDefine a constant instead of duplicating this literal "test_25" 3 times.(üÁÍ°øÿÿÿÿ
+_
+java:S1192¤"HDefine a constant instead of duplicating this literal "RYR2514" 3 times.(¥…Á†
+_
+java:S1192n"IDefine a constant instead of duplicating this literal "airport" 37 times.(Ã…İ
+]
+java:S1192ú"GDefine a constant instead of duplicating this literal "IBE123" 6 times.(Ôàë
+_
+java:S1192Õ
+"HDefine a constant instead of duplicating this literal "test_24" 3 times.(ŠÈ–³
+d
+java:S1192—
+"HDefine a constant instead of duplicating this literal "test_23" 3 times.(å‡éøÿÿÿÿ
+d
+java:S1192Û	"HDefine a constant instead of duplicating this literal "test_22" 3 times.(°²òÃşÿÿÿÿ
+_
+java:S1192Ÿ	"HDefine a constant instead of duplicating this literal "test_21" 3 times.(¨ôÎÀ
+^
+java:S1192ã"HDefine a constant instead of duplicating this literal "test_20" 3 times.(Èÿó
+j
+java:S1192‡"SDefine a constant instead of duplicating this literal " returned a list: " 3 times.(÷¡±¥
+˜
+java:S1192S"}Define a constant instead of duplicating this literal "Testing stopped due to global timeout -- too slow execution" 36 times.(ò•îÄşÿÿÿÿ
+d
+java:S1192¿"HDefine a constant instead of duplicating this literal "AZA058" 21 times.(ğş½şÿÿÿÿÿ
+
+java:S1192i"xDefine a constant instead of duplicating this literal "Internal testing error; please report this to teachers" 36 times.(‹Ìíñ
+`
+java:S1192À"IDefine a constant instead of duplicating this literal "AFR1300" 18 times.(¢¾²ø
+d
+java:S1192ö"HDefine a constant instead of duplicating this literal "SAS111" 19 times.(õ“Ñ‰ûÿÿÿÿ
+_
+java:S1192ø"HDefine a constant instead of duplicating this literal "UAL222" 10 times.(ÀÊœ
+`
+java:S1192"IDefine a constant instead of duplicating this literal "AAL8646" 31 times.(–½ó‘
+e
+java:S1192Ø"IDefine a constant instead of duplicating this literal "THY1857" 26 times.(˜Ö«Ëşÿÿÿÿ
+g
+java:S1192‡"KDefine a constant instead of duplicating this literal "the call " 18 times.(ó˜ÄÀûÿÿÿÿ
+i
+java:S1192ˆ"MDefine a constant instead of duplicating this literal "the call to " 4 times.(œõ£Ğıÿÿÿÿ
+j
+java:S1192â"NDefine a constant instead of duplicating this literal "
+the call to " 9 times.(Šªõøÿÿÿÿ
+d
+java:S1192©"HDefine a constant instead of duplicating this literal "test_19" 3 times.(ø¾ûÿÿÿÿ
+d
+java:S1192ï"HDefine a constant instead of duplicating this literal "test_18" 3 times.(ØâòŠûÿÿÿÿ
+`
+java:S1192ü"IDefine a constant instead of duplicating this literal "KLM1701" 21 times.(©ô«é
+_
+java:S1192µ"HDefine a constant instead of duplicating this literal "test_17" 3 times.(Àìùì
+_
+java:S1192û"HDefine a constant instead of duplicating this literal "test_16" 3 times.(¸—øı
+_
+java:S1192Á"HDefine a constant instead of duplicating this literal "test_15" 3 times.(îéÅ‡
+d
+java:S1192‡"HDefine a constant instead of duplicating this literal "test_14" 3 times.(Á×¶úşÿÿÿÿ
+e
+java:S1192è"IDefine a constant instead of duplicating this literal "IBE8331" 33 times.(ªë”Àüÿÿÿÿ
+^
+java:S1192Í"HDefine a constant instead of duplicating this literal "test_13" 3 times.(ĞÀ
+d
+java:S1192Â"HDefine a constant instead of duplicating this literal "LZB471" 28 times.(¸£Šşÿÿÿÿ
+d
+java:S1192“"HDefine a constant instead of duplicating this literal "test_12" 3 times.(†ùèüøÿÿÿÿ
+d
+java:S1192Û"HDefine a constant instead of duplicating this literal "test_11" 3 times.(à»Ü¦ûÿÿÿÿ
+_
+java:S1192£"HDefine a constant instead of duplicating this literal "test_10" 3 times.(³ëÎ®
+l
+java:S1192°"UDefine a constant instead of duplicating this literal " returned a list:
+  " 3 times.(ƒ¨
+d
+java:S1192ë"HDefine a constant instead of duplicating this literal "test_09" 3 times.(àí×Ùşÿÿÿÿ
+_
+java:S1192µ"HDefine a constant instead of duplicating this literal "test_08" 3 times.(¤Œâ…
+d
+java:S1192"HDefine a constant instead of duplicating this literal "test_07" 3 times.(šä«àøÿÿÿÿ
+e
+java:S1192Š"IDefine a constant instead of duplicating this literal "DLH1112" 31 times.(ûİ‘Äøÿÿÿÿ
+_
+java:S1192Í"HDefine a constant instead of duplicating this literal "test_06" 3 times.(äéçÒ
+^
+java:S1192™"HDefine a constant instead of duplicating this literal "test_05" 3 times.(Ä½¬;
+”
+java:S1192d"yDefine a constant instead of duplicating this literal "*** TIMEOUT! *** Very slow or non-terminating execution" 36 times.(³³©âøÿÿÿÿ
+_
+java:S1192æ"HDefine a constant instead of duplicating this literal "test_04" 3 times.(Ø‚´¬
+_
+java:S1192Œ"IDefine a constant instead of duplicating this literal "VLG9741" 32 times.(Ã­ÃM
+_
+java:S1192´"HDefine a constant instead of duplicating this literal "test_03" 3 times.(Šãü…
+w
+java:S1192’"[Define a constant instead of duplicating this literal "; it has now the elements " 5 times.(÷”Ïùÿÿÿÿ
+–
+java:S1192ˆ"zDefine a constant instead of duplicating this literal " which isn't sorted correctly. The correct sort order is " 3 times.(Ì¸îËùÿÿÿÿ
+e
+java:S1192¦"IDefine a constant instead of duplicating this literal "IBE3835" 27 times.(¡»ğãşÿÿÿÿ
+d
+java:S1192„"HDefine a constant instead of duplicating this literal "test_02" 3 times.(½Ğ¾ªÿÿÿÿÿ
+^
+java:S1192["HDefine a constant instead of duplicating this literal "test_01" 3 times.(øö½Ò
+K
+java:S1066½"/Merge this if statement with the enclosing one.(°ş¬Ôÿÿÿÿÿ
+‡
+java:S1319Ş"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Î”½Ë
+
+java:S1319â"hThe type of "setTrace" should be an interface such as "List" rather than the implementation "ArrayList".(Ï±×
+
+java:S1319ê"hThe type of "setTrace" should be an interface such as "List" rather than the implementation "ArrayList".(ä¸¹
+f	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ı"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117¤"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117›	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117œ	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117 	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117×	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Ø	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Ü	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117“
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117”
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117˜
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117Ñ
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Ò
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Ö
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117¨"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117¿"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+l	java:S117µ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»Á¾èıÿÿÿÿ
+g	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜î€
+g	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+g	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ş‡Ë
+l	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¥ßÓıÿÿÿÿ
+g	java:S117œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«½ÿ—
+g	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+g	java:S117™"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+g	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+g	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+g	java:S117Û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùé×€
+g	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ§Ú
+g	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ§Ú
+g	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ññ§Ú
+g	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áöË©
+g	java:S117£"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áöË©
+g	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á½Ã¸
+g	java:S117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á½Ã¸
+g	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ Ä™
+g	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ Ä™
+g	java:S117ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ú‰ì
+g	java:S117˜ "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•õÀ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä­Ÿâıÿÿÿÿ
+l	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íü¼³ûÿÿÿÿ
+a
+java:S1301†"KReplace this "switch" statement by "if" statements to increase readability.(µ¡ÖN
+v
+java:S1104ô"ZMake waitForThreads a static final constant or non-public and provide accessors if needed.(†‹Õ›ùÿÿÿÿ
+P
+java:S1444ô"4Make this "public static waitForThreads" field final(†‹Õ›ùÿÿÿÿ
+D
+java:S5411Ò"(Use a primitive boolean expression here.(úş¶Ïüÿÿÿÿ
+D
+java:S5411“ "(Use a primitive boolean expression here.(ŸËìşıÿÿÿÿ
+D
+java:S5411¯ "(Use a primitive boolean expression here.(ŸËìşıÿÿÿÿ
+?
+java:S5411Ä "(Use a primitive boolean expression here.(Â’‰ï
+X
+java:S4973¶"<Strings and Boxed types should be compared using "equals()".(éşñÿÿÿÿÿ
+^
+java:S3973¶"GUse indentation to denote the code conditionally executed by this "if".(õ¦¹é
+^
+java:S3973Å"GUse indentation to denote the code conditionally executed by this "if".(õ¦¹é
+^
+java:S3973Ô"GUse indentation to denote the code conditionally executed by this "if".(õ¦¹é
+^
+java:S3973 "GUse indentation to denote the code conditionally executed by this "if".(ˆÒ·Š
+e
+java:S3973¢"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ
+[
+java:S2259Ï"DA "NullPointerException" could be thrown; "valueE" is nullable here.(¶›ì¡
+c
+java:S2095ü"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(„ëœö
+S
+java:S2589 "7Remove this expression which always evaluates to "true"(“±®ùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÍÅÀùøÿÿÿÿ
+l
+java:S1128'"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ
+{
+java:S1149©"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149Á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+v
+java:S1149Ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÊ˜Õşÿÿÿÿ
+;
+java:S2129S" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+;
+java:S2129d" Remove this "String" constructor(³³©âøÿÿÿÿ
+6
+java:S2129i" Remove this "String" constructor(‹Ìíñ
+6
+java:S2129m" Remove this "String" constructor(øƒ
+6
+java:S2129n" Remove this "String" constructor(Ã…İ
+c	java:S100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ø±è
+;
+java:S2129z" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129”" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129™" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129" Remove this "String" constructor(¤¶‡˜
+7
+java:S2129" Remove this "String" constructor(Ã…İ
+i	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üë«Éşÿÿÿÿ
+<
+java:S2129ª" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Æ" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Ë" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129Ï" Remove this "String" constructor(¥Æİåùÿÿÿÿ
+7
+java:S2129Ğ" Remove this "String" constructor(Ã…İ
+i	java:S100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À©–±úÿÿÿÿ
+<
+java:S2129Ü" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ù" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ş" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129‚" Remove this "String" constructor(•õĞĞøÿÿÿÿ
+7
+java:S2129ƒ" Remove this "String" constructor(Ã…İ
+i	java:S100‹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²óùÓÿÿÿÿÿ
+<
+java:S2129" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129­" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129²" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129¶" Remove this "String" constructor(ìíÒƒøÿÿÿÿ
+7
+java:S2129·" Remove this "String" constructor(Ã…İ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á’éâ
+<
+java:S2129Ã" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129á" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129æ" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129ê" Remove this "String" constructor(ŒêÌ
+7
+java:S2129ë" Remove this "String" constructor(Ã…İ
+i	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¾ã²ÿÿÿÿÿ
+<
+java:S2129÷" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129•" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129š" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129" Remove this "String" constructor(öˆäù
+7
+java:S2129Ÿ" Remove this "String" constructor(Ã…İ
+d	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ£¸Ÿ
+<
+java:S2129«" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Ë" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Ğ" Remove this "String" constructor(‹Ìíñ
+6
+java:S2129Ô" Remove this "String" constructor(ô—ú%
+7
+java:S2129Õ" Remove this "String" constructor(Ã…İ
+i	java:S100İ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜŞÙµüÿÿÿÿ
+n
+java:S3776İ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜŞÙµüÿÿÿÿ
+<
+java:S2129á" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ƒ" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ˆ" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129Œ" Remove this "String" constructor(Ë€Úıÿÿÿÿ
+7
+java:S2129" Remove this "String" constructor(Ã…İ
+i	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß‘’¶úÿÿÿÿ
+n
+java:S3776•"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ß‘’¶úÿÿÿÿ
+<
+java:S2129™" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129»" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129À" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129Ä" Remove this "String" constructor(Ëİšıúÿÿÿÿ
+7
+java:S2129Å" Remove this "String" constructor(Ã…İ
+d	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ»Ó×
+i
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Æ»Ó×
+<
+java:S2129Ñ" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ó" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ø" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129ü" Remove this "String" constructor(¯¹­ÿÿÿÿÿÿ
+7
+java:S2129ı" Remove this "String" constructor(Ã…İ
+i	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œªÅƒúÿÿÿÿ
+n
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(œªÅƒúÿÿÿÿ
+<
+java:S2129‰" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129­" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129²" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129¶" Remove this "String" constructor(‚ºÓö
+7
+java:S2129·" Remove this "String" constructor(Ã…İ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğúæ¯
+i
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ğúæ¯
+<
+java:S2129Ã" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ç" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ì" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129ğ" Remove this "String" constructor(™Ãş»
+7
+java:S2129ñ" Remove this "String" constructor(Ã…İ
+i	java:S100ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ·é£ÿÿÿÿÿ
+n
+java:S3776ù"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(µ·é£ÿÿÿÿÿ
+<
+java:S2129ı" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129¡" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129¦" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129ª" Remove this "String" constructor( ¢àÿÿÿÿÿ
+7
+java:S2129«" Remove this "String" constructor(Ã…İ
+d	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¡Í
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(â¡Í
+<
+java:S2129·" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Û" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129à" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129ä" Remove this "String" constructor(µ¾¹Ş
+7
+java:S2129å" Remove this "String" constructor(Ã…İ
+i	java:S100í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸—„Ëùÿÿÿÿ
+n
+java:S3776í"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¸—„Ëùÿÿÿÿ
+<
+java:S2129ñ" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129•" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129š" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129" Remove this "String" constructor(¶¬“Œÿÿÿÿÿ
+7
+java:S2129Ÿ" Remove this "String" constructor(Ã…İ
+d	java:S100§"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ×¬
+i
+java:S3776§"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Æ×¬
+<
+java:S2129«" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Ï" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Ô" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129Ø" Remove this "String" constructor(ùµäÕıÿÿÿÿ
+7
+java:S2129Ù" Remove this "String" constructor(Ã…İ
+i	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æåşİûÿÿÿÿ
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(Æåşİûÿÿÿÿ
+<
+java:S2129å" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129‰" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129" Remove this "String" constructor(‹Ìíñ
+6
+java:S2129’" Remove this "String" constructor(ÌÊ¨
+7
+java:S2129“" Remove this "String" constructor(Ã…İ
+d	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê˜²³
+i
+java:S3776›"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ê˜²³
+<
+java:S2129Ÿ" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Ã" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129È" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129Ì" Remove this "String" constructor(öÌªĞ
+7
+java:S2129Í" Remove this "String" constructor(Ã…İ
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûôŸ§şÿÿÿÿ
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ûôŸ§şÿÿÿÿ
+<
+java:S2129Ù" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ÿ" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129„	" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129ˆ	" Remove this "String" constructor(ìÖó¾
+7
+java:S2129‰	" Remove this "String" constructor(Ã…İ
+i	java:S100‘	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«°¦Îşÿÿÿÿ
+n
+java:S3776‘	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(«°¦Îşÿÿÿÿ
+<
+java:S2129•	" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129»	" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129À	" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129Ä	" Remove this "String" constructor(ÅÔÕ¬
+7
+java:S2129Å	" Remove this "String" constructor(Ã…İ
+c	java:S100Í	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ–"
+h
+java:S3776Í	"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ğ–"
+<
+java:S2129Ñ	" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129÷	" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ü	" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129€
+" Remove this "String" constructor(à¹Áªúÿÿÿÿ
+7
+java:S2129
+" Remove this "String" constructor(Ã…İ
+d	java:S100‰
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğâ›õ
+i
+java:S3776‰
+"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ğâ›õ
+<
+java:S2129
+" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129µ
+" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129º
+" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129¾
+" Remove this "String" constructor(…¿ù‰øÿÿÿÿ
+7
+java:S2129¿
+" Remove this "String" constructor(Ã…İ
+c	java:S100Ç
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı¯˜
+h
+java:S3776Ç
+"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(ı¯˜
+<
+java:S2129Ë
+" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ó
+" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ø
+" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129ü
+" Remove this "String" constructor(œï‡–şÿÿÿÿ
+7
+java:S2129ı
+" Remove this "String" constructor(Ã…İ
+c	java:S100…"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¥
+h
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¤¥
+<
+java:S2129‰" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129·" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129¼" Remove this "String" constructor(‹Ìíñ
+6
+java:S2129À" Remove this "String" constructor(¶·×r
+7
+java:S2129Á" Remove this "String" constructor(Ã…İ
+c	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘÷ş
+h
+java:S3776É"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(‘÷ş
+<
+java:S2129Í" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ı" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129‚" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129†" Remove this "String" constructor(é•ğ»şÿÿÿÿ
+7
+java:S2129‡" Remove this "String" constructor(Ã…İ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“ØÊ¨
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(“ØÊ¨
+<
+java:S2129“" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Ã" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129È" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129Ì" Remove this "String" constructor(´ÚĞ´
+7
+java:S2129Í" Remove this "String" constructor(Ã…İ
+i	java:S100Õ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ñÕşÿÿÿÿ
+n
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¾ñÕşÿÿÿÿ
+<
+java:S2129Ù" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129‹" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129”" Remove this "String" constructor(šÈ°ñ
+7
+java:S2129•" Remove this "String" constructor(Ã…İ
+i	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÙÍøÿÿÿÿ
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(¡ÙÍøÿÿÿÿ
+<
+java:S2129¡" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Õ" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Ú" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129Ş" Remove this "String" constructor(ğØíåùÿÿÿÿ
+7
+java:S2129ß" Remove this "String" constructor(Ã…İ
+i	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‘àÿÿÿÿÿ
+n
+java:S3776ç"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(¦‘àÿÿÿÿÿ
+<
+java:S2129ë" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129¡" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129¦" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129ª" Remove this "String" constructor(Ğ³œå
+7
+java:S2129«" Remove this "String" constructor(Ã…İ
+d	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’£ø
+i
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(“’£ø
+<
+java:S2129·" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129ï" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129ô" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129ø" Remove this "String" constructor(§³û÷
+7
+java:S2129ù" Remove this "String" constructor(Ã…İ
+d	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚­ê¸
+i
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(‚­ê¸
+<
+java:S2129…" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Ç" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Ì" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129Ğ" Remove this "String" constructor(ÇÍÑ‚
+7
+java:S2129Ñ" Remove this "String" constructor(Ã…İ
+i	java:S100Ù"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¦üûÿÿÿÿ
+n
+java:S3776Ù"RRefactor this method to reduce its Cognitive Complexity from 53 to the 15 allowed.(–¦üûÿÿÿÿ
+<
+java:S2129İ" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129£" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129¨" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129¬" Remove this "String" constructor(¼»‡Šûÿÿÿÿ
+7
+java:S2129­" Remove this "String" constructor(Ã…İ
+i	java:S100µ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÑ—¤üÿÿÿÿ
+n
+java:S3776µ"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(ùÑ—¤üÿÿÿÿ
+<
+java:S2129¹" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129…" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Š" Remove this "String" constructor(‹Ìíñ
+7
+java:S2129" Remove this "String" constructor(„­ƒ§
+7
+java:S2129" Remove this "String" constructor(Ã…İ
+c	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Í¼\
+i
+java:S3776—"SRefactor this method to reduce its Cognitive Complexity from 109 to the 15 allowed.(…Í¼\
+<
+java:S2129›" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129™" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129¢" Remove this "String" constructor(î¥˜Îıÿÿÿÿ
+7
+java:S2129£" Remove this "String" constructor(Ã…İ
+d	java:S100«"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒóÊñ
+j
+java:S3776«"SRefactor this method to reduce its Cognitive Complexity from 139 to the 15 allowed.(ŒóÊñ
+<
+java:S2129¯" Remove this "String" constructor(ò•îÄşÿÿÿÿ
+<
+java:S2129Ë" Remove this "String" constructor(³³©âøÿÿÿÿ
+7
+java:S2129Ğ" Remove this "String" constructor(‹Ìíñ
+<
+java:S2129Ô" Remove this "String" constructor(†Ñ˜Œøÿÿÿÿ
+7
+java:S2129Õ" Remove this "String" constructor(Ã…İ
+P
+java:S1118Ş":Add a private constructor to hide the implicit public one.(ÿ©G
+
+java:S1186â"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ò§”‰ÿÿÿÿÿ
+V
+java:S1118á":Add a private constructor to hide the implicit public one.(ÏÿÄ‚şÿÿÿÿ
+{
+java:S1149©"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149µ"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149Á"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149Í"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+{
+java:S1149Ú"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(åûÒ¸ûÿÿÿÿ
+n
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 39 to the 15 allowed.(Ñ®ªĞüÿÿÿÿ
+[
+java:S6201¤"?Replace this instanceof check and cast with 'instanceof Pair p'(åóãÅùÿÿÿÿ
+Z
+java:S6201³"CReplace this instanceof check and cast with 'instanceof Iterable l'(ğàÚŸ
+U
+java:S6201¿">Replace this instanceof check and cast with 'instanceof Map m'(ıÛ÷Ì
+a
+java:S6201Ë"EReplace this instanceof check and cast with 'instanceof Object[] arr'(ğ™ü“úÿÿÿÿ
+^
+java:S6201Ø"BReplace this instanceof check and cast with 'instanceof int[] arr'(É³ƒûÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(è¿®‚şÿÿÿÿ
+^
+java:S6201Õ"GReplace this instanceof check and cast with 'instanceof Iterable value'(½Ú‰Û
+X
+java:S1126æ"AReplace this if-then-else statement by a single return statement.(ÔˆÎ¿
+n
+java:S3776¥"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÃÕ¶ùÿÿÿÿ
+l
+java:S4276¨"URefactor this code to use the more specialised Functional Interface 'Predicate<Pair>'(Ó¡½²
+R
+java:S1612›";Replace this lambda with method reference 'call::toString'.(ã¸’ 
+W
+java:S1612«";Replace this lambda with method reference 'call::toString'.(İ ÁÉúÿÿÿÿ
+C
+java:S3011î",This accessibility update should be removed.(˜ÂÓ˜
+^
+java:S1659Œ"HDeclare "aedlibMinor" and all following declarations on a separate line.(î
+d	java:S100³"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¥•
+i
+java:S3776·"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ÿ°Â·
+C
+java:S3011Ã",This accessibility update should be removed.(¹ÆøØ
+a
+java:S1124®"EReorder the modifiers to comply with the Java Language Specification.(ôšåàûÿÿÿÿ
+d	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÇ¹ë
+i	java:S100­"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òõµõÿÿÿÿÿ
+i	java:S100Ä"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áñœ–ÿÿÿÿÿ
+d	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛßÄà
+˜
+java:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(æÅÍ
+<
+java:S2129Ş" Remove this "String" constructor(Œî‚õşÿÿÿÿ
+<
+java:S2129ß" Remove this "String" constructor(óİúíøÿÿÿÿ
+7
+java:S2129à" Remove this "String" constructor(È¶ôÀ
+V
+java:S1161é":Add the "@Override" annotation above this method signature(®¥–Üøÿÿÿÿ
+]
+java:S1126ë"AReplace this if-then-else statement by a single return statement.(°êÆÊûÿÿÿÿ
+d	java:S116õ"NRename this field "x_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ¥¹
+i	java:S116ö"NRename this field "x_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾×Ò¨øÿÿÿÿ
+d	java:S116÷"NRename this field "x_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÙ©š
+<
+java:S2129…" Remove this "String" constructor(ññÕŠùÿÿÿÿ
+<
+java:S2129†" Remove this "String" constructor(óİúíøÿÿÿÿ
+<
+java:S2129ˆ" Remove this "String" constructor(âõúëşÿÿÿÿ
+7
+java:S2129Š" Remove this "String" constructor(È¶ôÀ
+V
+java:S1161”":Add the "@Override" annotation above this method signature(®¥–Üøÿÿÿÿ
+]
+java:S1126–"AReplace this if-then-else statement by a single return statement.(°êÆÊûÿÿÿÿ
+d	java:S116 "NRename this field "x_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ¥¹
+i	java:S116¡"NRename this field "x_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾×Ò¨øÿÿÿÿ
+<
+java:S2129®" Remove this "String" constructor(¥Öıÿÿÿÿ
+<
+java:S2129¯" Remove this "String" constructor(óİúíøÿÿÿÿ
+7
+java:S2129±" Remove this "String" constructor(È¶ôÀ
+V
+java:S1161»":Add the "@Override" annotation above this method signature(®¥–Üøÿÿÿÿ
+]
+java:S1126½"AReplace this if-then-else statement by a single return statement.(°êÆÊûÿÿÿÿ
+d	java:S116Ç"NRename this field "x_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ¥¹
+i	java:S116È"NRename this field "x_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾×Ò¨øÿÿÿÿ
+7
+java:S2129Ô" Remove this "String" constructor(èæ¬û
+<
+java:S2129Õ" Remove this "String" constructor(óİúíøÿÿÿÿ
+7
+java:S2129×" Remove this "String" constructor(È¶ôÀ
+Q
+java:S1161à":Add the "@Override" annotation above this method signature(ÿ¿¢œ
+]
+java:S1126ä"AReplace this if-then-else statement by a single return statement.(˜ÍÛúúÿÿÿÿ
+d	java:S116î"NRename this field "x_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÀ¥¹
+d	java:S116ï"NRename this field "x_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÖğÍ
+7
+java:S2129û" Remove this "String" constructor(¬±®î
+<
+java:S2129ü" Remove this "String" constructor(óİúíøÿÿÿÿ
+7
+java:S2129ş" Remove this "String" constructor(È¶ôÀ
+]
+java:S1126"AReplace this if-then-else statement by a single return statement.(¼ãå¿øÿÿÿÿ
+v
+java:S1149Ç"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰
+V
+java:S1118š":Add a private constructor to hide the implicit public one.(ÿãÃ¨şÿÿÿÿ
+Z
+java:S1155µ">Use isEmpty() to check whether the collection is empty or not.(¬×Ú‹øÿÿÿÿ
+t
+java:S3008õ"XRename this field "results_sofar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º´âêşÿÿÿÿ
+Q
+java:S1118ó":Add a private constructor to hide the implicit public one.(ÎçØø
+s
+java:S3077ô"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(†‹Õ›ùÿÿÿÿ
+i	java:S100‘ "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬Íìúÿÿÿÿ
+P
+java:S2864’ "4Iterate over the "entrySet" instead of the "keySet".(¹ÏÿÀûÿÿÿÿ
+d	java:S100˜ "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß•õÀ
+i	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä­Ÿâıÿÿÿÿ
+i	java:S100£ "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ§²Ôùÿÿÿÿ
+Z
+java:S1155© ">Use isEmpty() to check whether the collection is empty or not.(ËÇ…æüÿÿÿÿ
+P
+java:S2864® "4Iterate over the "entrySet" instead of the "keySet".(¹ÏÿÀûÿÿÿÿ
+i	java:S100º "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ë·£úÿÿÿÿ
+i	java:S100¿ "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÍË™ûÿÿÿÿ
+K
+java:S2864Â "4Iterate over the "entrySet" instead of the "keySet".(ÕÁ‘¨
+Q
+java:S1118Ó ":Add a private constructor to hide the implicit public one.(‹í¬À

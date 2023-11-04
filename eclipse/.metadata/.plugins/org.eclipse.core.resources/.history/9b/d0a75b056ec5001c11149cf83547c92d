@@ -1,0 +1,45 @@
+package concurrencia;
+
+public class CC_02_Carrera {
+
+
+	private static final int N = 200;
+	public static volatile int n = 0;
+
+	public static class Suma extends Thread{
+		private int s;
+		public Suma() {
+			 int s = n;
+		}
+		@Override
+		public void run() {
+			s = s + 1;
+			n = s;
+		}
+	}
+	public static class Resta extends Thread{
+		private int s;
+		public Resta() {
+			s = n;
+		}
+		@Override
+		public void run() {	
+			s = s + 1;
+			n = s;
+		}
+	}
+	public static void main(String[] args) throws InterruptedException{
+		int m = 310;
+		for(int j = 1; j<=m ;j++) {
+			for (int i = 0;i<N;i++) {
+				Thread suma = new Suma();
+				Thread resta = new Resta();
+				suma.start();
+				resta.join();
+			}
+			System.out.println("n = "+ n +" | iter : "+ j);
+		}
+		System.out.println("\n" + "END");
+	}
+
+}

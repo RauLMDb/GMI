@@ -1,0 +1,28 @@
+
+3
+java:S1643´"Use a StringBuilder instead.(ˆø£
+2
+java:S1643ô"Use a StringBuilder instead.(Üí”H
+D
+java:S5411µ"(Use a primitive boolean expression here.(îú¹İøÿÿÿÿ
+S
+java:S2589 "7Remove this expression which always evaluates to "true"(¹š ûÿÿÿÿ
+O
+java:S2589˜"8Remove this expression which always evaluates to "false"(¹½µÓ
+N
+java:S2589"7Remove this expression which always evaluates to "true"(‹©Ó†
+:
+java:S2326"V is not used in the interface.(¡•ÚŒúÿÿÿÿ
+C
+java:S1125µ"'Remove the unnecessary boolean literal.(îú¹İøÿÿÿÿ
+3
+java:S1116†"Remove this empty statement.(‡È¿ú
+N
+java:S1854¥"7Remove this useless assignment to local variable "px2".(¶ú±š
+S
+java:S1854¤"7Remove this useless assignment to local variable "px1".(°®¯îúÿÿÿÿ
+N
+java:S1854ª"7Remove this useless assignment to local variable "px2".(Ò´Õæ
+N
+java:S1854©"7Remove this useless assignment to local variable "px1".(«öıæ
+W	java:S125Ò"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ
